@@ -33,6 +33,7 @@ public final class Humanoid {
         case leftFoot
         case rightFoot
         case spine
+        case chest
         case neck
         case head
         case leftShoulder
